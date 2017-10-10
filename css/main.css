@@ -1,10 +1,11 @@
-body {
+html {
   background-color: #c9b5ab;
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'PT Sans' , sans-serif;
 }
 
 header i {
   color: #3f1622;
+  font-size: 1.5rem;
 }
 
 nav a:link {
@@ -13,4 +14,12 @@ nav a:link {
 
 nav a:hover {
   color: #8f2440;
+}
+
+main figcaption {
+  font-size: 0.8rem;
+}
+
+main p:first-child {
+  font-size: 1.125rem
 }
