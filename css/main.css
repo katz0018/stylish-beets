@@ -7,12 +7,14 @@ h1 {
   color: #3f1622;
   font-size: 1.5rem;
   font-weight: bold;
+  font-family: 'PT Sans'
 }
 
 h2 {
   color: #3f1622;
   font-size: 1.125rem;
-  line-height: 1.5rem;
+  line-height: 1.6rem;
+  font-family: 'PT Sans'
 }
 
 dl {
@@ -23,6 +25,7 @@ nav a:link {
   color: #8f2440;
   font-weight: bold;
   font-size: 1.125rem;
+  font-family: 'PT Sans'
 }
 
 header nav ol {
@@ -34,8 +37,8 @@ header nav a {
 }
 
 a:hover {
-  background-color: #b42885;
   color: #8f2440;
+  text-decoration: underline;
 }
 
 img {
@@ -43,7 +46,7 @@ img {
 }
 
 main figcaption {
-  font-size: .8rem;
+  font-size: .9rem;
   text-align: center;
 }
 
@@ -52,7 +55,7 @@ main p b {
 }
 
 body p {
-  font-size: .8rem;
+  font-size: .9rem;
   font-weight: normal;
 }
 
