@@ -43,7 +43,6 @@ a:hover {
 
 img {
   width: 100%;
-  margin: 0 auto;
 }
 
 main figcaption {
@@ -51,7 +50,7 @@ main figcaption {
   text-align: center;
 }
 
-main p b {
+.important {
   font-size: 1.125rem;
 }
 
