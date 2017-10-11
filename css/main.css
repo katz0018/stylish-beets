@@ -1,6 +1,6 @@
 html {
   background-color: #c9b5ab;
-  font-family: 'PT serif' , serif;
+  font-family: 'PT serif';
 }
 
 h1 {
@@ -15,7 +15,7 @@ h2 {
   line-height: 1.5rem;
 }
 
-dl{
+dl {
   line-height: 1.5rem;
 }
 
@@ -33,7 +33,7 @@ header nav a {
   text-decoration: none;
 }
 
-nav a:hover {
+a:hover {
   background-color: #b42885;
   color: #8f2440;
 }
@@ -43,7 +43,7 @@ img {
 }
 
 main figcaption {
-  font-size: 0.8rem;
+  font-size: .8rem;
   text-align: center;
 }
 
@@ -52,15 +52,16 @@ main p b {
 }
 
 body p {
-  font-size: 0.8rem;
+  font-size: .8rem;
+  font-weight: normal;
 }
 
-blockquote {
+blockquote cite {
   font-size: 1.5rem;
 }
 
 cite {
-  font-size: 0.8rem;
+  font-size: .8rem;
   text-align: center;
 }
 
@@ -74,12 +75,14 @@ footer a {
   color: #8f2440;
 }
 
+
+
 article dt {
   font-weight: bold;
 }
 
 aside ul {
-  font-size: 0.8rem;
+  font-size: .8rem;
   line-height: 1.5;
   list-style-type: circle;
 }
