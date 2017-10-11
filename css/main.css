@@ -59,13 +59,14 @@ body p {
   font-weight: normal;
 }
 
-blockquote cite {
-  font-size: 1.5rem;
+blockquote {
+  font-size: 1.3rem;
+  font-family: 'PT Serif';
+  text-align: left;
 }
 
-cite {
-  font-size: .8rem;
-  text-align: center;
+blockquote cite {
+font-size: .8rem;
 }
 
 article ol {
@@ -77,8 +78,6 @@ footer a {
   text-decoration: none;
   color: #8f2440;
 }
-
-
 
 article dt {
   font-weight: bold;
