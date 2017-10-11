@@ -1,20 +1,20 @@
 html {
   background-color: #c9b5ab;
-  font-family: 'PT serif';
+  font-family: "PT serif";
 }
 
 h1 {
   color: #3f1622;
   font-size: 1.5rem;
   font-weight: bold;
-  font-family: 'PT Sans'
+  font-family: "PT Sans";
 }
 
 h2 {
   color: #3f1622;
   font-size: 1.125rem;
   line-height: 1.6rem;
-  font-family: 'PT Sans'
+  font-family: "PT Sans";
 }
 
 dl {
@@ -25,7 +25,7 @@ nav a:link {
   color: #8f2440;
   font-weight: bold;
   font-size: 1.125rem;
-  font-family: 'PT Sans'
+  font-family: "PT Sans";
 }
 
 header nav ol {
@@ -43,6 +43,7 @@ a:hover {
 
 img {
   width: 100%;
+  margin: 0 auto;
 }
 
 main figcaption {
@@ -61,12 +62,12 @@ body p {
 
 blockquote {
   font-size: 1.3rem;
-  font-family: 'PT Serif';
+  font-family: "PT Serif";
   text-align: left;
 }
 
 blockquote cite {
-font-size: .8rem;
+  font-size: .8rem;
 }
 
 article ol {
