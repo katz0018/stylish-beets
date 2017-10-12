@@ -21,19 +21,23 @@ dl {
   line-height: 1.5rem;
 }
 
-nav a:link {
-  color: #8f2440;
-  font-weight: bold;
+header nav a {
+  font-weight: 900;
   font-size: 1.125rem;
   font-family: "PT Sans";
+  text-decoration: none;
+}
+
+header nav a:link, a:visited {
+  color: #8f2440;
+}
+
+header nav a:hover {
+  color: #3f1622;
 }
 
 header nav ol {
   list-style: none;
-}
-
-header nav a {
-  text-decoration: none;
 }
 
 a:hover {
@@ -42,7 +46,7 @@ a:hover {
 }
 
 img {
-  width: 100%;
+  width: 510px;
 }
 
 main figcaption {
@@ -51,22 +55,18 @@ main figcaption {
 }
 
 .important {
-  font-size: 1.125rem;
-}
-
-body p {
-  font-size: .9rem;
-  font-weight: normal;
+  font-size: 1.5rem;
 }
 
 blockquote {
   font-size: 1.3rem;
-  font-family: "PT Serif";
+  font-family: "PT Serif, 400 italic";
   text-align: left;
 }
 
 blockquote cite {
   font-size: .8rem;
+  font-family: "PT Serif";
 }
 
 article ol {
@@ -81,6 +81,11 @@ footer a {
 
 article dt {
   font-weight: bold;
+}
+
+#thickserif {
+  font-weight: bold;
+  font-size: 1.125rem;
 }
 
 aside ul {
