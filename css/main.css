@@ -35,16 +35,12 @@ a:link, a:visited {
   color: #8f2440;
 }
 
-a:hover {
-  color: #3f1622;
-}
-
 header nav ol {
   list-style: none;
 }
 
 a:hover {
-  color: #8f2440;
+  color: #3f1622;
   text-decoration: underline;
 }
 
