@@ -1,6 +1,7 @@
 html {
   background-color: #c9b5ab;
   font-family: "PT serif";
+  line-height: 1.5;
 }
 
 h1 {
@@ -15,10 +16,6 @@ h2 {
   font-size: 1.125rem;
   line-height: 1.6rem;
   font-family: "PT Sans";
-}
-
-dl {
-  line-height: 1.5rem;
 }
 
 header nav a {
@@ -73,7 +70,6 @@ blockquote cite {
 
 article ol {
   list-style-type: lower-greek;
-  line-height: 1.5rem;
 }
 
 footer a {
@@ -92,6 +88,5 @@ article dt {
 
 aside ul {
   font-size: .8rem;
-  line-height: 1.5;
   list-style-type: circle;
 }
