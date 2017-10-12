@@ -52,15 +52,18 @@ img {
 main figcaption {
   font-size: .9rem;
   text-align: center;
+  font-weight: normal;
 }
 
 .important {
   font-size: 1.5rem;
+  font-family: "PT Sans", 700 italic;
+  font-weight: 500;
 }
 
 blockquote {
   font-size: 1.3rem;
-  font-family: "PT Serif, 400 italic";
+  font-family: "PT Serif", 400 italic;
   text-align: left;
 }
 
